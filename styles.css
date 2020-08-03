@@ -11,3 +11,16 @@ body {
   top: 10px;
   left: 5px;
 }
+
+.unlock-content {
+  display: none;
+}
+
+.unlock-content .locked {
+  display: none;
+}
+
+.unlock-content .unlocked {
+  display: none;
+
+}
